@@ -1,4 +1,4 @@
-version: 'latest'
+version: '1.5.2'
 
 services:
   environment:
